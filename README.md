@@ -1,4 +1,4 @@
-## Project:Google Landing Page
+## Project: Google Landing Page
 
 ## Description
 Project aims to create google landing page.
