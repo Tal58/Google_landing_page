@@ -113,7 +113,7 @@ html, body{
 #gsearch {
     background-image: url('images/Magnifying_glass_icon.png'),url("images/keyboard.png"), url("images/google_microphone.png");
     background-repeat: no-repeat, no-repeat,no-repeat;
-    background-position-x: 1vw,35vw,39vw;
+    background-position-x: 1vw,36vw,39vw;
     background-position-y: 1vw;
     background-size: 1vw,2vw,1vw;
     width: 39vw;
